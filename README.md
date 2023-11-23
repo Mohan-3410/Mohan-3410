@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Strapi, NextJs, Redux, MongoDB**
 
-- 🤝 I’m looking for help with [Social Media](social-media-kappa-green.vercel.app)
+- 🤝 I’m looking for help with [Social Media](https://social-media-mohan-3410.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-three-omega-46.vercel.app/](https://portfolio-three-omega-46.vercel.app/)
 
